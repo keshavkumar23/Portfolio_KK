@@ -17,8 +17,8 @@ const Data = [
         img: require("../images/portfolio.jpg"),
         heading: "Portfolio.",
         content: "Explore my portfolio website, meticulously crafted using React Js to showcase my skills and projects. This dynamic website offers visitors a seamless and interactive experience, with a modern and user-friendly design. The use of React components enhances the site's responsiveness, ensuring it adapts flawlessly to various devices. Contact me for collaboration opportunities or inquiries, as I look forward to engaging with you.",
-        view: "",
-        source: "",
+        view: "https://portfoliokeshav.netlify.app/",
+        source: "https://github.com/keshavkumar23/Portfolio_KK",
     }
 ]
 
