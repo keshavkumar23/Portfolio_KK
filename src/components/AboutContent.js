@@ -12,7 +12,7 @@ const AboutContent = () => {
                 </p>
             </div>
             <div className="right">
-                <button onClick={() => window.location.href = "https://drive.google.com/file/d/1nD59QNhpX7CsdupnFTJlz3pPCzw5kS9J/view?usp=sharing"} className="button">
+                <button onClick={() => window.location.href = "https://drive.google.com/file/d/1eyxdwEwAmWh_uqKgyzxgK8XzTOTdFvwq/view?usp=sharing"} className="button">
                     My Resume.
                 </button>
             </div>
