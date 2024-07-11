@@ -9,16 +9,11 @@ const HomeImage = () =>{
             </div>
             <div className="content">
                 <Zoom right cascade duration = {600}>
-                    <p>I'm a Programmer.</p>
+                    <p>Keshav Kumar.</p>
                 </Zoom>
                 <div className="h1_content">
                     <h1>
-                    <Zoom right cascade duration={1200}>Web Developer.</Zoom><br/>
-                    </h1>
-                    <h1>
-                        <Zoom right cascade duration = {2400}>
-                            Competitive Coder.
-                        </Zoom>
+                    <Zoom right cascade duration={1200}>Full Stack Developer.</Zoom><br/>
                     </h1>
                 </div>
                 <div className="home_buttons">
@@ -27,11 +22,6 @@ const HomeImage = () =>{
                             My Resume.
                         </button>
                     </LightSpeed>
-                    {/* <LightSpeed right duration = {2800}>
-                        <Link to ="/About" className = "button button_light">
-                            About
-                        </Link>
-                    </LightSpeed> */}
                 </div>
             </div>
         </div>

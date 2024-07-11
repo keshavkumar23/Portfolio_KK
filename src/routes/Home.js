@@ -4,7 +4,7 @@ import HomeImage from "../components/HomeImage";
 import Bottom from "../components/Bottom";
 const Home = () => {
     return(
-        <div>
+        <div className="custom-scrollbar">
             <Navbar/>
             <HomeImage/>
             <Bottom/>

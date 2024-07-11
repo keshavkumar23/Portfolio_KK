@@ -12,7 +12,7 @@ const AboutImage = () => {
                         <h1>About Me.</h1>
                     </Slide>
                     <Slide right cascade duration={2000}>
-                        <p>I'm a web developer and programmer.</p>
+                        <p>I'm a full stack developerc.</p>
                     </Slide>
                 </div>
         </div>

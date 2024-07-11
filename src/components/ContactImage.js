@@ -12,7 +12,7 @@ const ContactImage = () => {
                         <h1>Contact.</h1>
                     </Slide>
                     <Slide right cascade duration={2000}>
-                        <p>Let's Connect.</p>
+                        <p>Let's connect.</p>
                     </Slide>
                 </div>
         </div>

@@ -1,28 +1,44 @@
 const skillsData = [
     {
-        percentage : 70,
+        percentage : 85,
         heading : "HTML",
     },
     {
-        percentage : 60,
+        percentage : 80,
         heading : "CSS",
     },
     {
-        percentage : 55,
+        percentage : 75,
         heading : "JAVA SCRIPT",
     },
     {
-        percentage : 65,
+        percentage : 80,
         heading : "REACT JS",
     },
     {
-        percentage : 45,
+        percentage : 70,
         heading : "NODE JS",
     },
     {
-        percentage : 55,
+        percentage : 70,
+        heading : "EXPRESS JS",
+    },
+    {
+        percentage : 65,
         heading : "MONGO DB",
     },
+    {
+        percentage : 70,
+        heading : "C++",
+    },
+    // {
+    //     percentage : 65,
+    //     heading : "NEXT JS",
+    // },
+    // {
+    //     percentage : 65,
+    //     heading : "TYPE SCRIPT",
+    // },
 
 ]
 
